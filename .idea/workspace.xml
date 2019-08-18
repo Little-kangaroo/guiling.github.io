@@ -2,65 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8de76c2-82d0-474e-b225-dc116b884a99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/a.text" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/keynote.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-14-unix-linux-note.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-05-25-js-module-loader.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-07-09-js-module-7day.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-09-22-js-version.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hux-blog.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/syntax.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/404-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/avatar-hux.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/contact-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg-o.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/home-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon_wechat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/in-post/post-js-version/javascript-java.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/in-post/post-js-version/keep-calm-and-learn-javascript.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-js-module.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-js-version.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/post-bg-unix-linux.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tag-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/hux-blog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/hux-blog.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.tagcloud.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/hux-blog.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/sidebar.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,13 +27,68 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.zh.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/a.text">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/in-post/post-js-version/javascript-java.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/in-post/post-js-version/keep-calm-and-learn-javascript.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-204" />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1653" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -141,6 +138,49 @@
               <item name="guiling.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="guiling.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="guiling.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guiling.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guiling.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guiling.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guiling.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guiling.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guiling.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guiling.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guiling.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guiling.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="in-post" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guiling.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guiling.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="in-post" type="462c0819:PsiDirectoryNode" />
+              <item name="post-js-version" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guiling.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guiling.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guiling.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guiling.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="less" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -184,7 +224,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566136657245</updated>
-      <workItem from="1566136659963" duration="2690000" />
+      <workItem from="1566136659963" duration="3506000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1566136947046</created>
@@ -211,10 +251,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2690000" />
+    <option name="totallyTimeSpent" value="3506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -226,10 +267,10 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.27974278" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.27974278" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -322,31 +363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="64" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-838" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-04-14-unix-linux-note.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -385,6 +401,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/a.text">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/in-post/post-js-version/javascript-java.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/in-post/post-js-version/keep-calm-and-learn-javascript.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-204" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1653" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -393,11 +444,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/README.zh.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a.text">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
