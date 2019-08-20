@@ -19,5 +19,4 @@ tags:
   
 ![](\img\spring\3jjgq1mqjsj2brmfo1tdlp22vv.png)
 
-
 此图是基于源码的阅读所画的Spring容器的创建过程图。
