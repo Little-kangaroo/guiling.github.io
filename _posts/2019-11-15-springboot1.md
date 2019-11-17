@@ -2,14 +2,14 @@
 layout:     post
 title:      "正面硬刚SpringBoot源码之第一行代码"
 subtitle:   "第一行代码"
-date:        2019-11-17
+date:        2019-11-15
 author:     "GuiLing"
 header-img: "img/post-bg-js-module.jpg"
 tags:
 
    - SpringBoot
 ---
-- ##SpringBootApplication
+- ## SpringBootApplication
 
 1. 使用 `@SpringBootApplication` 注解，标明是 Spring Boot 应用。通过它，可以开启自动配置的功能。
 
